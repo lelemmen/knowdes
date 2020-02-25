@@ -1,0 +1,17 @@
+---
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook:
+    number_sections: false
+    includes:
+      in_header: mathjax_support.html
+    mathjax: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+    self_contained: false
+---
+
+# Knowdes
+
+My personally curated knowdes:
+
+- [Complexity theory](#complexity_theory)

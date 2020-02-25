@@ -1,0 +1,11 @@
+# Complexity theory {#complexity_theory}
+
+Complexity theory is the theory of [complex systems](#complex_systems). It takes elements from
+- Systems theory;
+- Nonlinear systems;
+- Network theory;
+- Adaptation and self-organization.
+
+It has been called a post-Newtonian paradigm.
+
+[Source](https://www.youtube.com/watch?v=71n4GSM1jhw&list=PLsJWgOB5mIMDRt8-DBLLVfh-XeKs2YAcg)

@@ -1,0 +1,9 @@
+# Complex systems {#complex_systems}
+
+There exist many definitions of complex systems, but let us try to establish a common ground and a working definition.
+
+A system (which may be mapped to a graph) is a collection of elements and relations between them.
+
+The organization of these elements leads to a hierarchy, which may lead to the emergence of properties such that the whole system cannot be reduced to the sum of its parts.
+
+The non-linear behaviour of these relations may lead to rapid changes, which are called _phase transitions_.
